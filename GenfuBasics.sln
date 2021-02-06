@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenfuBasics", "GenfuBasics\GenfuBasics.csproj", "{BD2280B5-3E85-4098-8A90-D0F7D6149588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2280B5-3E85-4098-8A90-D0F7D6149588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2280B5-3E85-4098-8A90-D0F7D6149588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2280B5-3E85-4098-8A90-D0F7D6149588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2280B5-3E85-4098-8A90-D0F7D6149588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C01BBCD-BAF7-4E45-B8C0-6826F052C517}
+	EndGlobalSection
+EndGlobal
